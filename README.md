@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on a [Chatapp](https://github.com/akbenngold/chat-app)
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **react projects**
 
-- 👨‍💻 All of my projects are available at [akbenngold.netlify.app](akbenngold.netlify.app)
+[//]: <> - 👨‍💻 All of my projects are available at [akbenngold.netlify.app](akbenngold.netlify.app)
 
 - 📝 I regularly write articles on [akbenngold.hashnode.dev](akbenngold.hashnode.dev)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **akbenngold@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pMBVIQdwQx9ceJW60NsyfxhDi1q5dTjj/edit?usp=drivesdk&ouid=117875541777026127389&rtpof=true&sd=true](https://docs.google.com/document/d/1pMBVIQdwQx9ceJW60NsyfxhDi1q5dTjj/edit?usp=drivesdk&ouid=117875541777026127389&rtpof=true&sd=true)
+[//]: <> - 📄 Know about my experiences [https://docs.google.com/document/d/1pMBVIQdwQx9ceJW60NsyfxhDi1q5dTjj/edit?usp=drivesdk&ouid=117875541777026127389&rtpof=true&sd=true](https://docs.google.com/document/d/1pMBVIQdwQx9ceJW60NsyfxhDi1q5dTjj/edit?usp=drivesdk&ouid=117875541777026127389&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I appreciate the delicate process in making good food and good music**
 
