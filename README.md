@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [Chatapp](https://github.com/akbenngold/chat-app)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **Typescript**
 
 - 👯 I’m looking to collaborate on **react projects**
 
