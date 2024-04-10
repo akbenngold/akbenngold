@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojima</h1>
-<h3 align="center">A detail oriented Frontend Developer</h3>
+<h3 align="center">A Frontend Developer & Technical Writer</h3>
 
 
 - 🔭 I’m currently working on a [Chatapp](https://github.com/akbenngold/chat-app)
